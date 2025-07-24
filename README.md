@@ -1,3 +1,3 @@
-Visualization of Surface Displacement Caused by ogi Source
+Visualization of Surface Displacement Caused by Mogi Source
 ---
 <img src=preview.png>
